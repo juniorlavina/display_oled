@@ -1,5 +1,7 @@
 # Display OLED
 
+## (Versão basiada no versão do repositório oficial da BitDogLab)
+
 ## Atividade: Configurando e Usando o Display OLED da BitDogLab com Linguagem C
 
 A seguir, apresentaremos um passo a passo para configurar e programar o Display OLED da BitDogLab utilizando a linguagem C. Vamos criar um programa que escreve uma mensagem no display, explorando as funções básicas de inicialização, configuração e manipulação de texto.
