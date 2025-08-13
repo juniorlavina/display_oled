@@ -1,6 +1,6 @@
 # Display OLED
 
-## (Versão basiada no versão do repositório oficial da BitDogLab)
+## (Versão baseada no versão do repositório oficial da BitDogLab)
 
 ## Atividade: Configurando e Usando o Display OLED da BitDogLab com Linguagem C
 
